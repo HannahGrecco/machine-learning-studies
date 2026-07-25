@@ -1,4 +1,4 @@
-# 📈 Sales Revenue Prediction
+# Sales Revenue Prediction
 
 > 🇧🇷 Prefer reading in Portuguese? Click here: [README.pt-BR.md](README.pt-BR.md)
 
